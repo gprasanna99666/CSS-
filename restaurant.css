@@ -1,0 +1,17 @@
+.container{
+    width: 1000px;
+    border: 2px solid violet;
+}
+.item1,.item2,.item3,.item4{
+    display: inline-block;
+    width: 200px;
+    border: 1px solid blue;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+img{
+    width: 200px;
+   
+}
