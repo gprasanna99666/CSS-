@@ -1,0 +1,20 @@
+h2{
+    display: inline-block;
+    background-color: blueviolet;
+    margin-left: 35%;
+}
+h4{
+    background-color: rgb(189, 14, 174);
+    color: rgb(55, 210, 16);
+    display: inline-block;
+}
+b{
+    color: rgb(85, 111, 242);
+}
+pre{
+   background-color:rgb(170, 244, 170);
+   color: deeppink;
+}
+p{
+    color: crimson;
+}
